@@ -1,0 +1,15 @@
+C:\Users\cyano\work\CSharp\SimpleConsoleCalculator\bin\Debug\net8.0\SimpleConsoleCalculator.exe
+C:\Users\cyano\work\CSharp\SimpleConsoleCalculator\bin\Debug\net8.0\SimpleConsoleCalculator.deps.json
+C:\Users\cyano\work\CSharp\SimpleConsoleCalculator\bin\Debug\net8.0\SimpleConsoleCalculator.runtimeconfig.json
+C:\Users\cyano\work\CSharp\SimpleConsoleCalculator\bin\Debug\net8.0\SimpleConsoleCalculator.dll
+C:\Users\cyano\work\CSharp\SimpleConsoleCalculator\bin\Debug\net8.0\SimpleConsoleCalculator.pdb
+C:\Users\cyano\work\CSharp\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyano\work\CSharp\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\cyano\work\CSharp\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.AssemblyInfo.cs
+C:\Users\cyano\work\CSharp\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\cyano\work\CSharp\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.sourcelink.json
+C:\Users\cyano\work\CSharp\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.dll
+C:\Users\cyano\work\CSharp\SimpleConsoleCalculator\obj\Debug\net8.0\refint\SimpleConsoleCalculator.dll
+C:\Users\cyano\work\CSharp\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.pdb
+C:\Users\cyano\work\CSharp\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.genruntimeconfig.cache
+C:\Users\cyano\work\CSharp\SimpleConsoleCalculator\obj\Debug\net8.0\ref\SimpleConsoleCalculator.dll
